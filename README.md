@@ -12,7 +12,7 @@ Let us consider a regular ```NxNxN``` hexagon and its inner unit triangular latt
 
 This can be explained by the fact that the hexagon vertices, which define the outer borders of the lattice, impose a strong tiling condition that reduces the number of possible configurations in the outermost regions. It follows that the outermost ring of lozenges propagate such tiling condition inwards, and so on and so forth. Therefore, there are statistically less ways to tile regions near the poles than ways to tile regions near the center. In other words, two randomly generated hexagons are likely to be similar in frozen (i.e., ordered) regions near the poles, and likely to differ in liquid (i.e., disordered) regions near the center.
 
-## Problem
+## Algorithm
 
 ### Room generation
 
