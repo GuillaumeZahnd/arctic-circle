@@ -1,0 +1,6 @@
+*__pycache__/*
+results/*
+*.swp
+*.pkl
+*.png
+*.gif
